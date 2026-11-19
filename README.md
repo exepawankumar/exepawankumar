@@ -1,232 +1,142 @@
-<!-- ================= HEADER ================= -->
-
 <div align="center">
 
 # 👋 Hi, I'm Pawan Kumar
 
-### Android Developer | Kotlin | Jetpack Compose
+### 💻 Android Developer | Kotlin | Jetpack Compose
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E76F00&center=true&vCenter=true&width=600&lines=Android+Developer+%F0%9F%93%B1;Building+Modern+Android+Applications;Kotlin+%7C+Jetpack+Compose;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=E76F00&center=true&vCenter=true&width=550&lines=Android+Developer+%F0%9F%93%B1;Kotlin+%7C+Jetpack+Compose;Building+Modern+Android+Apps;Learning+and+Growing+Every+Day" />
 
-<br/>
+<br>
 
-<p>
-  <a href="https://github.com/exepawankumar">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+<a href="https://github.com/exepawankumar">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 </div>
 
 ---
 
-<!-- ================= ABOUT ME ================= -->
+## 🙋‍♂️ About Me
 
-## 👨‍💻 About Me
-
-I'm **Pawan Kumar**, an aspiring Android Developer from Jharkhand, India.
-
-- 🎓 Currently pursuing MCA from Galgotias University.
-- 📱 Passionate about Android Application Development.
-- 💻 Building modern Android applications using Kotlin and Jetpack Compose.
-- 🏗️ Interested in MVVM, Clean Architecture and scalable applications.
-- 🔥 Experienced with Firebase, Room Database and REST APIs.
-- 🌱 Currently improving my Android development and problem-solving skills.
-- 🎯 Goal: To become a professional Android Developer.
+- 🔭 Currently working on **Dhun – Offline Music Player**
+- 🌱 Learning advanced Android development.
+- 💡 Interested in Kotlin, Jetpack Compose and App Architecture.
+- 🎓 Pursuing MCA from Galgotias University.
+- 🎯 Aspiring Android Developer.
+- 📍 Jharkhand, India.
 
 ---
 
-<!-- ================= TECH STACK ================= -->
+## 🧑‍💻 Languages
 
-## 🛠️ Tech Stack & Tools
-
-### Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=kotlin,java" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=kotlin,java" />
 </p>
 
-### Android Development
-<p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,firebase" />
+## 📱 Android Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=androidstudio,gradle,firebase" />
 </p>
 
-### Database & Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=firebase,supabase,sqlite" />
+## 🗄️ Database & Backend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=firebase,supabase,sqlite" />
 </p>
 
-### Tools & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,gradle" />
+## ⚙️ Tools & Technologies
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea" />
 </p>
 
-### Core Skills
+---
 
-- Kotlin
-- Jetpack Compose
-- Material 3
-- MVVM Architecture
-- Clean Architecture
-- Dependency Injection (Hilt)
-- Kotlin Coroutines & Flow
-- Room Database
-- Firebase Authentication
-- Cloud Firestore
-- Retrofit
-- REST API Integration
+## 🏗️ Architecture & Concepts
+
+<p align="left">
+<img src="https://img.shields.io/badge/MVVM-Architecture-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Clean-Architecture-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Jetpack-Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
+<img src="https://img.shields.io/badge/Coroutines-Kotlin-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Dependency_Injection-Hilt-orange?style=for-the-badge" />
+</p>
 
 ---
 
-<!-- ================= PROJECTS ================= -->
+## 🚀 My Projects
 
-## 🚀 Featured Projects
+### 🛒 eShop – E-Commerce App
 
-### 🛒 1. eShop – E-Commerce Android App
+Modern e-commerce Android application.
 
-A modern e-commerce application built with Kotlin and Jetpack Compose.
+**Tech:** Kotlin • Jetpack Compose • MVVM • Hilt • Firebase
 
-**Features:**
-- User Authentication
-- Product Browsing
-- Product Search
-- Product Details
-- Shopping Cart
-- Checkout
-- Order Management
+<a href="https://github.com/exepawankumar/eShop-App">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github">
+</a>
 
-**Tech Stack:** Kotlin, Jetpack Compose, MVVM, Clean Architecture, Hilt, Firebase, Firestore.
+### 📰 Khabar – News App
 
-🔗 [View Repository](https://github.com/exepawankumar/eShop-App)
+News application with online news fetching and offline bookmarks.
 
----
+**Tech:** Kotlin • Compose • Retrofit • Room • MVVM
 
-### 📰 2. Khabar – News Android App
+<a href="https://github.com/exepawankumar/Khabar-News-App">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github">
+</a>
 
-An Android news application that helps users explore the latest news.
+### 🎵 Dhun – Offline Music Player
 
-**Features:**
-- News Listing
-- REST API Integration
-- News Details
-- Bookmark Articles
-- Offline Bookmark Storage
+Modern offline music player with AI playlist recommendations (in development).
 
-**Tech Stack:** Kotlin, Jetpack Compose, Retrofit, Room Database, MVVM, Coil.
-
-🔗 [View Repository](https://github.com/exepawankumar/Khabar-News-App)
+**Tech:** Kotlin • Compose • ExoPlayer • Hilt • Supabase
 
 ---
-
-### 🌱 3. Self Discover – Productivity App
-
-A productivity and wellness application designed to help users manage daily activities.
-
-**Features:**
-- To-Do Management
-- Daily Productivity
-- Breathing Exercises
-- Meditation
-- User Authentication
-
-**Tech Stack:** Kotlin, Jetpack Compose, Firebase, Room Database, MVVM.
-
----
-
-### 🎵 4. Dhun – Offline Music Player
-
-An Android music player focused on playing locally stored music with a modern interface.
-
-**Features:**
-- Local Music Discovery
-- Audio Playback
-- Mini Player
-- Now Playing Screen
-- AI-Based Playlist Recommendations (In Development)
-
-**Tech Stack:** Kotlin, Jetpack Compose, MVVM, Clean Architecture, Hilt, ExoPlayer, Supabase.
-
----
-
-<!-- ================= GITHUB STATS ================= -->
 
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=exepawankumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=exepawankumar&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exepawankumar&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exepawankumar&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<br/><br/>
+<br><br>
 
-<img src="https://streak-stats.demolab.com?user=exepawankumar&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-<!-- ================= CONTRIBUTION GRAPH ================= -->
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=exepawankumar&theme=tokyo-night&hide_border=true" width="100%"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=exepawankumar&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
-
-<!-- ================= EDUCATION ================= -->
 
 ## 🎓 Education
 
-| Qualification | Institution | Year |
-|---|---|---|
-| MCA | Galgotias University | Pursuing |
-| BCA | Sarala Birla University | 2022–2025 |
-| Intermediate (Science) | Annada College, Hazaribagh | 2022 |
-| Matriculation | Appreciable Public School | 2020 |
+- 🎓 MCA – Galgotias University (Pursuing)
+- 🎓 BCA – Sarala Birla University (2022–2025)
 
 ---
 
-<!-- ================= CURRENT FOCUS ================= -->
-
-## 🎯 Currently Focusing On
-
-- Advanced Kotlin Programming
-- Jetpack Compose UI Development
-- Android App Architecture
-- Android Performance Optimization
-- Data Structures & Algorithms
-- Building Real-World Android Projects
-
----
-
-<!-- ================= CONTACT ================= -->
-
-## 🤝 Let's Connect
-
-I'm always interested in connecting with fellow developers,
-learning new technologies and exploring Android development opportunities.
+## 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/exepawankumar">
-<img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<br/><br/>
+<br><br>
 
 ### ⭐ Thanks for visiting my profile!
 
-**Keep Learning | Keep Building | Keep Growing 🚀**
+**Let's Build Something Amazing! 🚀**
 
 </div>
